@@ -1,4 +1,4 @@
-# AUTOMATE WHATSAPP MESSAGES
+# [AUTOMATE WHATSAPP MESSAGES](https://sachuverma.github.io/automate-whatsapp-messages/)
 ### How to do?
 - Open Whatsapp Web
 - Open console by pressing `Ctrl+Shift+I` 
