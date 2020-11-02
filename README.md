@@ -6,7 +6,8 @@
 
 ### Changes in script
 - Contact: Enter the name of contact/group as it is shown in your whatsapp web
-- Message: Type the message you want to send
+- Message: Type the message you want to send     
+	_use `&ensp;` for spaces in text message_
 - Counter: Number of messages to send
 - Schedule: Uncomment the schedule message section and change the hr min sec when you want to send the message
 
