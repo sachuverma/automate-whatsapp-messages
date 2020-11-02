@@ -40,7 +40,7 @@ Schedule your message section ends here
 
 // Replace My Contact Name with the name
 // of your WhatsApp contact or group e.g. title="Sachu Verma"
-name = "Dagabaaz";
+name = "My Contact";
 
 simulateMouseEvents(
   document.querySelector('[title="' + name + '"]'),
