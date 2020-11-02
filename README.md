@@ -1,7 +1,7 @@
 # AUTOMATE WHATSAPP MESSAGES
 ### How to do?
 - Open Whatsapp Web
-- Open console by pression `Ctrl+Shift+I` 
+- Open console by pressing `Ctrl+Shift+I` 
 - In `console` tab paste the below script
 
 ### Changes in script
